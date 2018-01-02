@@ -4,7 +4,7 @@ Category: Blog
 
 ### Joe Bostian
 <under construction ...>
-![alt_text](content/images/JABostian_2017-profile_small.jpg "Joe Bostian")<br>
+![alt_text](images/JABostian_2017-profile_small.jpg "Joe Bostian")<br>
 
 Welcome to my personal repo.  I interact a lot with open source at work, and the things I post here are my
 experiences - either with a work-related project, or just for fun.  A lot of what I do can be found through my
