@@ -3,7 +3,7 @@ Date: 2017-01-01
 Category: Blog
 
 ### Joe Bostian
-*under construction ...*
+*under construction ...*<br>
 ![alt_text](images/JABostian_2017-profile_small.jpg "Joe Bostian")<br>
 
 Welcome to my personal repo.  I interact a lot with open source at work, and the things I post here are my
